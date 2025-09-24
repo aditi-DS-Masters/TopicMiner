@@ -96,5 +96,3 @@ It shows the **cluster visualization** with summaries annotated on the plot, alo
 * The methodology demonstrates how AI can **transform raw news streams into structured insights** for journalism, media monitoring, and trend analysis.
 
 ---
-
-Would you like me to also draft a **shorter academic abstract-style summary** (like for a paper or report introduction) that distills the project into 3–4 crisp paragraphs?
